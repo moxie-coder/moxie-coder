@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning `Haxe, C#, and JS`
-- 📫 How to reach me: Discord: MemeHoovy#8234
+- 📫 How to reach me: MemeHoovy#8234
 
 <!--
 **MemeHovy/MemeHovy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
