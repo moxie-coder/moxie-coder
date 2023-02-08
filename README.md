@@ -1,18 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning `Haxe, C#, and JS`
+- 🌱 I’m currently learning `Haxe, C#, and JS (Javascript)`
 - 📫 How to reach me: MemeHoovy#8234
 - ⚡ Fun fact: I'm a simper
-
-<!--
-**MemeHovy/MemeHovy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-
--->
+- 😄 Pronouns: He/Him/They/Them
+- 💬 Ask me about who the best FNF girl is
+- 🔭 I’m currently working on FNF mods
+- 👯 I’m looking to collaborate on FNF mods :)
+- 🤔 I’m looking for help with coding
