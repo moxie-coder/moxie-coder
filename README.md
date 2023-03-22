@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning `Haxe, C#, and JS (Javascript)`
+- 🌱 I’m currently learning `Haxe, C#, JS (Javascript), Java, and Python`
 - 📫 How to reach me: MemeHoovy#8234
 - ⚡ Fun fact: I'm a simper
 - 😄 Pronouns: He/Him/They/Them
