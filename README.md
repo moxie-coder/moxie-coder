@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning `Haxe, C#, JS (Javascript), Java, and Python`
-- 📫 How to reach me: MemeHoovy#0001
+- 📫 How to reach me: memehoovy (on discord)
 - ⚡ Fun fact: I'm a simper
 - 😄 Pronouns: He/Him/They/Them
 - 💬 Ask me about who the best FNF girl is
