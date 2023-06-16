@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on FNF mods
 - 👯 I’m looking to collaborate on FNF mods :)
 - 🤔 I’m looking for help with coding (in C#/C++)
+- I make discord bots sometimes
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MemeHovy&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MemeHovy&layout=compact&show_icons=true&theme=radical)
