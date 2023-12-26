@@ -1,12 +1,12 @@
 ### Hi there 👋
 
+I'm Moxie, welcome to my github!
+Note that this is isn't an offical ahegaokami account, nor am I associated with them.
+
 - 🌱 I’m currently learning `Haxe, C#, JS (Javascript), Java, and Python`
-- 📫 How to reach me: memehoovy (on discord)
-- ⚡ Fun fact: I'm a simper
+- 📫 How to reach me: MemeHoovy#0001 (on discord)
 - 😄 Pronouns: He/Him/They/Them
-- 💬 Ask me about who the best FNF girl is
-- 🔭 I’m currently working on FNF mods
-- 👯 I’m looking to collaborate on FNF mods :)
+- 🔭 I’m currently working on FNF mods and Other Projects
 - 🤔 I’m looking for help with coding (in C#/C++)
 - I make discord bots sometimes
 
