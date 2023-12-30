@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Moxie, welcome to my github!
-Note that this is isn't an offical ahegaokami account, nor am I associated with them.
+Note that this is isn't an offical nomnomnami account, nor am I associated with them.
 
 - 🌱 I’m currently learning `Haxe, C#, JS (Javascript), Java, and Python`
 - 📫 How to reach me: MemeHoovy#0001 (on discord)
