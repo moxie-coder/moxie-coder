@@ -12,5 +12,5 @@ Note that this is isn't an offical nomnomnami account, nor am I associated with 
 
 - If you're wondering where some of my repos are, they're now [here](https://github.com/MemeHovy-Stuff).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moxie-ahegaokami&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moxie-ahegaokami&layout=compact&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moxie-coder&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=moxie-coder&layout=compact&show_icons=true&theme=radical)
