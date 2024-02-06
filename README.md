@@ -15,4 +15,4 @@ Note that this is isn't an offical nomnomnami account, nor am I associated with 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moxie-coder&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moxie-coder&layout=compact&show_icons=true&theme=radical)
 
-![count](https://count.getloli.com/get/moxie-coder?theme=rule34]
+![count](https://count.getloli.com/get/moxie-coder?theme=rule34)
