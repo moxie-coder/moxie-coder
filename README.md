@@ -3,7 +3,7 @@
 I'm Moxie, welcome to my github!
 Note that this is isn't an offical nomnomnami account, nor am I associated with them.
 
-- 🌱 I’m currently learning `Haxe, C#, JS (Javascript), Java, and Python`
+- 🌱 I’m currently learning `Haxe, C, C++, C#, JS (Javascript), Java, and Python`
 - 📫 How to reach me: moxiethespecialist (on discord)
 - 😄 Pronouns: He/Him/They/Them
 - 🔭 I’m currently working on FNF mods and Other Projects
