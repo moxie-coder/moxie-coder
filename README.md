@@ -8,7 +8,7 @@ Note that this is isn't an offical nomnomnami account, nor am I associated with 
 - 😄 Pronouns: He/Him/They/Them
 - 🔭 I’m currently working on FNF mods and Other Projects
 - 🤔 I’m looking for help with coding (in C#/C++)
-- I make discord bots sometimes
+- I make discord bots sometimes, starting to learn how to mod some games like Mario 64
 
 - If you're wondering where some of my haxe/FnF or other repos are, they're now [here](https://github.com/MemeHovy-Stuff).
 - I usually might move my stuff to organizations or such just to declutter my profile.
