@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Moxie, welcome to my github!
-Note that this is isn't an offical nomnomnami account, nor am I associated with them.
+I'm Moxie, welcome to my Github!
+Note that this is isn't an offical nomnomnami account, nor am I associated with her.
 I am a big fan of her & her work!
 
 - 🌱 I’m currently learning `Haxe, C, C++, C#, JS (Javascript), Java, and Python`
