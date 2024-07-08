@@ -2,6 +2,7 @@
 
 I'm Moxie, welcome to my github!
 Note that this is isn't an offical nomnomnami account, nor am I associated with them.
+I am a big fan of her & her work!
 
 - 🌱 I’m currently learning `Haxe, C, C++, C#, JS (Javascript), Java, and Python`
 - 📫 How to reach me: moxiethespecialist (on discord)
