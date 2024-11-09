@@ -10,6 +10,7 @@ I am a big fan of her & her work!
 - 🔭 I’m currently working on FNF mods and Other Projects
 - 🤔 I’m looking for help with coding (in C#/C++)
 - I make discord bots sometimes, starting to learn how to mod some games like Mario 64
+- I use Windows, and Linux (yes, including Arch)
 
 - If you're wondering where some of my haxe/FnF or other repos are, they're now [here](https://github.com/MemeHovy-Stuff).
 - I usually might move my stuff to organizations or such just to declutter my profile.
