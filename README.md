@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Moxie, welcome to my Github!
+I'm Flynn, AKA Vinegar, welcome to my Github!
 Note that this is isn't an offical NomNomNami account, nor am I associated with her. I'm just a big fan of her & her work!
 
 - 🌱 I’m currently learning `Haxe, C, C++, C#, JS (Javascript), Java, and Python`
